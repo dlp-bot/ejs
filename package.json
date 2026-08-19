@@ -19,8 +19,8 @@
     "@types/deno": "2.7.0",
     "@types/node": "26.2.0",
     "esbuild": "0.28.2",
-    "globals": "17.9.0",
-    "oxfmt": "^0.62.0",
-    "oxlint": "^1.77.0"
+    "globals": "17.11.0",
+    "oxfmt": "^0.63.0",
+    "oxlint": "^1.78.0"
   }
 }
